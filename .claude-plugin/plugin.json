@@ -1,0 +1,5 @@
+{
+  "name": "ticket-to-prompt",
+  "version": "1.0.0",
+  "description": "Turn a ticket into a codebase-grounded implementation prompt, with a preview of the finished task to approve before any code is written."
+}

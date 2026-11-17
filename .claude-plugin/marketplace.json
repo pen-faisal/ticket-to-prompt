@@ -1,0 +1,13 @@
+{
+  "name": "ticket-to-prompt",
+  "owner": {
+    "name": "YOUR NAME OR TEAM"
+  },
+  "plugins": [
+    {
+      "name": "ticket-to-prompt",
+      "source": "./",
+      "description": "Turn a ticket into a codebase-grounded implementation prompt, with a preview of the finished task to approve before any code is written."
+    }
+  ]
+}
